@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @pancholipratham7
-- 🌱 I’m am a MERN STACK developer
+- 🌱 I’m am a Full Stack Web Developer
